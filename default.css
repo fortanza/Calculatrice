@@ -32,8 +32,8 @@ input{
     border-radius: 100px;
     margin: 10px;
     box-shadow: 0 3px 3px rgba(0,0,0,1), 0 3px 6px rgba(0,0,0,1);
-    opacity: .4;
-    color: rgb(0, 0, 0);
+    opacity: .5;
+    color: rgb(9, 14, 58);
     font-size: 1.3em;
     transition: all 2s; 
 }
@@ -49,19 +49,20 @@ input:active{
 }
 
 #output{
-   background: white; 
-   margin: 0 auto;
-   width: 400px;
-   text-align: center;
-   margin-top: 30px;
-   margin-bottom: 30px;
-   height: 50px;
-   font-size: 40px;
+    color: rgb(9, 14, 58); 
+    background: white; 
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 50px;
+    font-size: 40px;
     font-family: 'Lato', sans-serif;
     border-radius: 25px;
     box-shadow: 0 3px 3px rgba(0,0,0,1), 0 3px 6px rgba(0,0,0,1); 
     z-index: auto;
-    opacity: .4;
+    opacity: .6;
 }
 
 /* Animation Background */
